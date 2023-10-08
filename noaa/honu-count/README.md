@@ -6,22 +6,24 @@ You can help us track Hawaiian green sea turtles (honu) by reporting the locatio
 What is Honu Count?
 Imagine swimming 1,200 miles round-trip to bring new life into the world. While an impossible feat for humans, this is what many Hawaiian green sea turtles (honu) do each year. Our researchers track their migration, but we need your help! By reporting sightings of turtles with white alpha-numeric etchings on their shells, you can help us understand foraging habitats, migration, distribution, and the survival status of that particular turtle—it’s the “Honu Count”! 
 
-Image
-A green sea turtle with a white alpha-numeric marking on its shell rests on a sandy beach at the edge of the ocean and black lava rock with blue ocean waves in the distance.
+![image](https://github.com/Student-Scientific-Research-Society/openreckon-contrib-database/assets/82308038/a978fbe7-4020-410f-be4a-9ce2e55818bb)  
+
+A green sea turtle with a white alpha-numeric marking on its shell rests on a sandy beach at the edge of the ocean and black lava rock with blue ocean waves in the distance.  
+
 An example of a photo taken from a safe distance on the beach in Puakō, Hawai‘i and submitted to Honu Count. The “HA” in the etching indicates that the turtle was originally sighted and tagged on Hawai‘i Island. Credit: Cass Paye.
 Most adult honu that live around the main Hawaiian Islands travel northwest during the spring to reproduce at Lalo, or French Frigate Shoals, an atoll in the Papahānaumokuākea Marine National Monument. This round-trip migration begins at their foraging habitats around the main Hawaiian Islands and extends more than 1,200 miles to remote islands and atolls in the Northwestern Hawaiian Islands. Sea turtles have an internal compass that uses the earth’s geomagnetic signposts to help them navigate back to the beaches where they were hatched, to reproduce. Approximately 96 percent of all honu nest at Lalo; the rest nest at other areas within the Hawaiian Archipelago.
 
-Join a great team of citizen scientists to report turtles! Since the inception of the Honu Count in 2017, nearly 600 citizens reported 688 sightings of 253 individual turtles. This valuable scientific information is used to track recently rehabilitated turtles, resident turtle habitat use, or when nesting turtles from Lalo return back to their foraging grounds. We also use the data collected from Honu Count to determine the resilience of the Hawaiian green sea turtle in the face of climate change.
+Join a great team of citizen scientists to report turtles! Since the inception of the Honu Count in 2017, nearly 600 citizens reported 688 sightings of 253 individual turtles. This valuable scientific information is used to track recently rehabilitated turtles, resident turtle habitat use, or when nesting turtles from Lalo return back to their foraging grounds. We also use the data collected from Honu Count to determine the [resilience of the Hawaiian green sea turtle in the face of climate change.](https://www.fisheries.noaa.gov/science-blog/punahele-green-sea-turtles-journey-destination-unknown)
 
 Tips for Spotting Honu
-Look for turtles with a white alpha-numeric etching on the right side of the shell near their hind flipper. 
-Keep a respectful distance of 10 feet on land or in water. Use binoculars or zoom on a camera if you want a closer look.
-Take a photo of the etching without disturbing the turtle.
-Record the date, time, and location.
-Go to the Honu Count Sighting Survey to submit your sighting.
+- Look for turtles with a white alpha-numeric etching on the right side of the shell near their hind flipper. 
+- Keep a [respectful distance](https://www.fisheries.noaa.gov/pacific-islands/marine-life-viewing-guidelines/viewing-marine-wildlife-hawaii) of 10 feet on land or in water. Use binoculars or zoom on a camera if you want a closer look.
+- Take a photo of the etching without disturbing the turtle.
+- Record the date, time, and location.
+- Go to the [Honu Count Sighting Survey](https://survey123.arcgis.com/share/605f9f3faca94769b755b7c889e6bbb0?portalUrl=https://maps.fisheries.noaa.gov/portal) to submit your sighting.
 
-Tips for Using the Online Survey Platform
-To report your honu sightings, go to our Honu Count Sighting Survey.
+# Tips for Using the Online Survey Platform  
+To report your honu sightings, go to our [Honu Count Sighting Survey](https://survey123.arcgis.com/share/605f9f3faca94769b755b7c889e6bbb0?portalUrl=https://maps.fisheries.noaa.gov/portal).
 
 A screenshot of the Honu Count Sighting Survey platform page for data entry showing data fields for date and time of sighting, email, and Honu ID.
 A screenshot of the Honu Count Sighting Survey, a survey generated using ArcGIS Survey123. The Honu Count Sighting Survey is accessible via computer or mobile devices. Credit: ArcGIS Survey123/NOAA Fisheries
