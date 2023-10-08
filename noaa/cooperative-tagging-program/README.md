@@ -28,17 +28,12 @@ To request a free tagging kit, email tagging@noaa.gov or call (800) 437-3936.
 6. Record the date and the catch location as precisely as possible.   
 7. Tag the fish and ensure the tag is secure. If the fish is not lively, revive it as long as possible by pulling it alongside the boat to pass water over its gills before release.   
 
-Contacts  
+# Contacts  
 Mailing address:  
-
 NOAA’s Southeast Fisheries Science Center  
-
 75 Virginia Beach Drive  
-
 Miami, FL 33149  
-
 Phone: (800) 437-3936  
-
 Email: tagging@noaa.gov  
 
 Staff: Eric Orbesen, Derke Snodgrass  
