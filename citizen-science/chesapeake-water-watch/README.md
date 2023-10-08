@@ -4,4 +4,23 @@ The project results will not only help us monitor the health of the Chesapeake B
 
 If you want to receive project announcements, results, and training opportunities, sign up for our mailing list or visit our Get Involved page to find out more ways to participate in the project!  
 
-Chesapeake Water Watch is made possible by the NASA Citizen Science for Earth Systems Program (CSESP). Find out more about citizen science and volunteering at NASA.
+Chesapeake Water Watch is made possible by the NASA Citizen Science for Earth Systems Program (CSESP). Find out more about citizen science and volunteering at NASA.  
+
+https://waterkeeperschesapeake.org/  
+
+https://serc.si.edu/chesapeake-water-watch/get-involved  
+
+# WAYS TO GET INVOLVED  
+# Get trained and start collecting data!  
+### Virtual Training  
+https://serc.si.edu/chesapeake-water-watch/virtual-training-sign-up  
+### In-Person Training  
+https://www.signupgenius.com/go/10c0e48aaac2aa7fcc70-cwwinperson#/  
+
+# Sign up for the Newsletter!  
+Receive updates, results, and learn about training opportunities  
+https://serc.si.edu/webform/sign-cww-mailing-list  
+
+# Inquire about other ways to get involved!  
+Reach out to the Chesapeake Water Watch Program Specialist, Shelby Brown  
+brownsh@si.edu  
